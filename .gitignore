@@ -1,0 +1,16 @@
+node_modules
+.env
+.DS_Store
+dist
+build
+coverage
+.eslintcache
+logs
+
+/src/generated/prisma
+
+.trae
+.agents
+.vscode
+# Added by code-review-graph
+.code-review-graph/
